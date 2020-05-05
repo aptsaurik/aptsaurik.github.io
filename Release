@@ -3,7 +3,7 @@ Label: Cydia/Telesphoreo
 Suite: stable
 Version: 1.0r282
 Codename: ios
-Architectures: darwin-arm iphoneos-arm
+Architectures: iphoneos-arm
 Components: main
 Description: Distribution of Unix Software for iOS
 Support: https://cydia.saurik.com/api/support/*
